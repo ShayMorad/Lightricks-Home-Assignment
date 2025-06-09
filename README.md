@@ -37,6 +37,24 @@
     <li><b>CLI Integration</b> - Run the tool via command line with a single command.</li>
   </ol>
 </div>
+<br>
+
+<div align="left">
+  <h2 align="left" style="border-bottom: 1px solid gray">Media</h2>
+
+  <p>Here are a few examples of images edited using the tool and the filters described above:</p>
+
+  <div align="left">
+    <h4>Original Image</h4>
+    <img src="./media/cat.jpg" width="300px" />
+    <h4>Box Blur (5x5)</h4>
+    <img src="./media/cat_blurred.jpg" width="300px" />
+    <h4>Sobel Edge Detection</h4>
+    <img src="./media/blurry_edged.jpg" width="300px" />
+    <h4>Pipeline (multiple filters layered)</h4>
+    <img src="./media/pipelined.jpg" width="300px" />
+  </div>
+</div>
 
 <br>
 
