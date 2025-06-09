@@ -1,0 +1,12 @@
+{
+  "input": "blurry.jpg",          
+  "output": "neww/blurry_edged.jpg",  
+  "display": true,
+
+  "operations": [
+    {
+      "type": "saturation",
+"value":3
+    }
+  ]
+}

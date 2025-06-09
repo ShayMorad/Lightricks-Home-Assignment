@@ -1,0 +1,13 @@
+{
+  "input": "cat.jpg",          
+  "output": "",  
+  "display": true,
+
+  "operations": [
+    {
+      "type": "box",
+      "width": 31,
+      "height": 31
+    }
+  ]
+}
