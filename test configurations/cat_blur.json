@@ -1,0 +1,13 @@
+{
+  "input": "cat.jpg",          
+  "output": "cat_blurred.jpg",  
+  "display": false,
+
+  "operations": [
+    {
+      "type": "box",
+      "height":21,
+      "width": 21
+    }
+  ]
+}

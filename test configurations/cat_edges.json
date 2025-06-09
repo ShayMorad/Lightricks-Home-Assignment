@@ -1,0 +1,11 @@
+{
+  "input": "cat.jpg",          
+  "output": "cat_sobel.jpg",
+  "display": false,
+
+  "operations": [
+    {
+      "type": "sobel"
+    }
+  ]
+}

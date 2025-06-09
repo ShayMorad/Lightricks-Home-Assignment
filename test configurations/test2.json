@@ -1,0 +1,12 @@
+{
+  "input": "blurry.jpg",          
+  "output": "blurry_edges.jpg",  
+  "display": true,
+
+  "operations": [
+    {
+      "type": "saturation",
+"value":3
+    }
+  ]
+}
