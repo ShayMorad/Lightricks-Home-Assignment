@@ -1,0 +1,20 @@
+{
+  "input": "blurry.jpg",
+  "output": "pipelined.jpg",
+  "display": true,
+
+  "operations": [
+    {
+      "type": "sharpen",
+"alpha":3
+    },
+    {
+      "type": "brightness",
+      "value": 15
+    },
+    {
+      "type": "contrast",
+      "value": -5
+    }
+  ]
+}
